@@ -1,3 +1,5 @@
+NOTE: This is the original README for D-GEX. We are taking the model and making modifications to it. We do not own the D-GEX.
+
 README for D-GEX
 ================
 
